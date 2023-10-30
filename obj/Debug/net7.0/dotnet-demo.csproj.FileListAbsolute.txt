@@ -1,0 +1,14 @@
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/bin/Debug/net7.0/dotnet-demo
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/bin/Debug/net7.0/dotnet-demo.deps.json
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/bin/Debug/net7.0/dotnet-demo.runtimeconfig.json
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/bin/Debug/net7.0/dotnet-demo.dll
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/bin/Debug/net7.0/dotnet-demo.pdb
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/obj/Debug/net7.0/dotnet-demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/obj/Debug/net7.0/dotnet-demo.AssemblyInfoInputs.cache
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/obj/Debug/net7.0/dotnet-demo.AssemblyInfo.cs
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/obj/Debug/net7.0/dotnet-demo.csproj.CoreCompileInputs.cache
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/obj/Debug/net7.0/dotnet-demo.dll
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/obj/Debug/net7.0/refint/dotnet-demo.dll
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/obj/Debug/net7.0/dotnet-demo.pdb
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/obj/Debug/net7.0/dotnet-demo.genruntimeconfig.cache
+/home/orlando/Documents/IPCOM/datacenter/dotnet-demo/dotnet-demo/obj/Debug/net7.0/ref/dotnet-demo.dll
